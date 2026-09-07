@@ -1,3 +1,4 @@
+<div style="background-color:#0d1117;color:#ffffff;padding:20px;border-radius:10px;">
 # 💫 About Me:
 🔨 Currently working on: Building full-stack projects using React, Python, and MySQL.<br>🤝 Looking to collaborate with: Developers who enjoy building interesting web and AI-based projects.<br>🆘 I’m looking for help with: Improving my DSA problem-solving and writing better, cleaner code.<br>🌱 I’m currently learning: Full Stack Development, DSA, REST APIs, and AI-powered applications.<br>💬 Ask me about: HTML,CSS,React, Python, MySQL, JavaScript, Git, and my journey into Full Stack Development.<br>⚡ Fun fact: I learn best by building projects and turning what I learn into something practical.
 
@@ -16,3 +17,4 @@
 [![](https://komarev.com/ghpvc/?username=jiviteshsinghbondili-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
